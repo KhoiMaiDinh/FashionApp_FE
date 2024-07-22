@@ -1,6 +1,7 @@
 # FashionApp-Team5 
 
 ![image](https://github.com/thanhtheox/FashionShop/assets/101191565/f97008cd-db3d-44cd-92da-0088d9ff2668)
+![Poster](https://github.com/KhoiMaiDinh/FashionApp_FE/blob/master/poster.jpg?raw=true)
 <details>
   <summary><h2>1. Introduction</h2></summary>
   
